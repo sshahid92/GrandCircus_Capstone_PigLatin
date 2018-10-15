@@ -1,0 +1,7 @@
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\GrandCircusCapStone_PigLatin\GrandCircusCapstonePigLatin\GrandCircusCapstonePigLatin\bin\Debug\GrandCircusCapstonePigLatin.exe.config
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\GrandCircusCapStone_PigLatin\GrandCircusCapstonePigLatin\GrandCircusCapstonePigLatin\bin\Debug\GrandCircusCapstonePigLatin.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\GrandCircusCapStone_PigLatin\GrandCircusCapstonePigLatin\GrandCircusCapstonePigLatin\bin\Debug\GrandCircusCapstonePigLatin.pdb
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\GrandCircusCapStone_PigLatin\GrandCircusCapstonePigLatin\GrandCircusCapstonePigLatin\obj\Debug\GrandCircusCapstonePigLatin.csprojAssemblyReference.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\GrandCircusCapStone_PigLatin\GrandCircusCapstonePigLatin\GrandCircusCapstonePigLatin\obj\Debug\GrandCircusCapstonePigLatin.csproj.CoreCompileInputs.cache
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\GrandCircusCapStone_PigLatin\GrandCircusCapstonePigLatin\GrandCircusCapstonePigLatin\obj\Debug\GrandCircusCapstonePigLatin.exe
+\\mi\dfs\users\SShahid\Desktop\GrandCircusLab1-shah\GrandCircusCapStone_PigLatin\GrandCircusCapstonePigLatin\GrandCircusCapstonePigLatin\obj\Debug\GrandCircusCapstonePigLatin.pdb
